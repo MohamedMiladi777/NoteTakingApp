@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NoteTakingApp</string>
+    <string name="home">Home</string>
+    <string name="notes">Notes</string>
 </resources>

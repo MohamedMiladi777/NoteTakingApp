@@ -52,3 +52,15 @@ P
  app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
 w
 G.idea/sonarlint/issuestore/d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d,5\9\597ee72a8e9f089a0f26608d0d77229bc4510a37
+q
+Aapp/src/main/java/com/example/notetakingapp/ui/NoteItemUiState.kt,7\b\7b4fd4721f06e73f8e1e1dc78647bdf86d087b39
+x
+Happ/src/main/java/com/example/notetakingapp/repository/NotesViewModel.kt,a\c\ace0b751121a69896513fab7046dc71abc898c81
+f
+6app/src/main/java/com/example/notetakingapp/MainAct.kt,e\2\e2d00818ed302e6ccc8f32a37be132de2a653a14
+n
+>app/src/main/java/com/example/notetakingapp/ui/MainActivity.kt,e\8\e8b13895ede2a00fa837b531f3154ce03ea6086f
+}
+Mapp/src/main/java/com/example/notetakingapp/repository/NoteTakingAppScreen.kt,6\d\6d77e2c199f0411d09fe98038eb7757df169ad92
+j
+:app/src/main/java/com/example/notetakingapp/ui/NavGraph.kt,5\d\5d6d58d7a5e91c7f52963611b6e41f8e4a83b48e
